@@ -10,7 +10,8 @@
           b. Adding a tourist
           c. Removing a tourist
           d. Editiing a tourist          
-                    i. Adding a flight (selection from existing flights, take into consideration the number of seats)
+                    i. Adding a flight (selection from existing flights, take into consideration 
+                       the number of seats)
                    ii. Removing the flight
                     
 **2. Flight management**
@@ -19,7 +20,8 @@
           b. Adding a flight
           c. Removing a flight
           d. Editing a flight          
-                    i. Adding a tourist to the flight (selection of existing tourists, take into consideration the number of seats)
+                    i. Adding a tourist to the flight (selection of existing tourists, 
+                       take into consideration the number of seats)
                     ii. Removal of a tourist from the flight
                     
 ### Data structure
