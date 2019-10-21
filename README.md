@@ -1,16 +1,16 @@
 # vue-project
 
 
-It's an application for managing space tourist flights.
+## an application for managing space tourist flights
 
-Functionalities
-1. Tourist management
+### Functionalities
+** 1. Tourist management **
           a. List of tourists
           b. Adding a tourist
           c. Removing a tourist
           d. Editiing a tourist
-                    i. Adding a flight (selection from existing flights, take into consideration the number of seats)
-                    ii. Removing the flight
+                    - Adding a flight (selection from existing flights, take into consideration the number of seats)
+                    - Removing the flight
 2. Flight management
           a. List of flights
           b. Adding a flight
@@ -19,7 +19,7 @@ Functionalities
                     i. Adding a tourist to the flight (selection of existing tourists, take into
                     consideration the number of seats)
                     ii. Removal of a tourist from the flight
-Data structure
+### Data structure
 1. Tourist
           a. First name
           b. Last name
